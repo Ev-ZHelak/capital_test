@@ -9,7 +9,7 @@ This Python program helps you test your knowledge of capitals around the world. 
 2. Run the program using Python:
 
 ```bash
-python capitals_quiz.py
+python run_test.py
 ```
 
 3. Follow the on-screen instructions to start the quiz.
