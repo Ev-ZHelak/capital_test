@@ -1,5 +1,4 @@
-
-#Capital test
+# Capital test
 
 This Python program helps you test your knowledge of capitals around the world. You will be presented with a series of questions, and you'll have to choose the correct capital city. If you want to learn more about a specific capital, you can choose to open its Wikipedia page.
 
