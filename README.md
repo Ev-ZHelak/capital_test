@@ -12,7 +12,7 @@ This Python program helps you test your knowledge of capitals around the world. 
 python run_test.py
 ```
 
-3. Follow the on-screen instructions to start the quiz.
+3. Follow the on-screen instructions to start the test.
 
 ## Features
 
