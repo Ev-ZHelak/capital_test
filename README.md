@@ -22,6 +22,6 @@ python run_test.py
 
 ## Note
 
-If you encounter any unexpected errors, please check your internet connection. If the issue persists, try running the program again.
+If you encounter any unexpected errors, please check your internet connection. If the issue persists, try running the program again. The program is oriented for Windows
 
 Enjoy testing your geography knowledge! 🌍
