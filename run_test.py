@@ -74,7 +74,7 @@ def Loading_data() -> dict:
 
 
 def open_wiki(link):
-    """открыть страницу в wikipedia"""
+    """открыть страницу в Wikipedia"""
     if not link is None:
 
         wiki_url = f'https://ru.wikipedia.org{link}'
